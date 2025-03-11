@@ -1,0 +1,24 @@
+{
+  "name": "trayharrington-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trayharrington/palindrome-tester.git"
+  },
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "author": "Tray Harrington",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trayharrington/palindrome-tester/issues"
+  },
+  "homepage": "https://github.com/trayharrington/palindrome-tester#readme"
+}
