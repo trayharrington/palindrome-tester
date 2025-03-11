@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/trayharrington/palindrome-tester/issues"
   },
-  "homepage": "https://github.com/trayharrington/palindrome-tester#readme"
+  "homepage": "https://github.com/trayharrington/palindrome-tester#readme",
+  "dependencies": {
+    "mocha": "^11.1.0"
+  }
 }
